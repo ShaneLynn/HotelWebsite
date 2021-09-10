@@ -1,0 +1,22 @@
+/*This is the CSS file that provides style to the slider on the home page.*/
+
+#slideshow #slideshowWindow
+{
+    position: relative;
+    overflow: hidden;
+}
+
+#slideshow #slideshowWindow .slide
+{
+    width: 33.333333%;
+    float: left;
+}
+
+.slideText
+{
+    position:absolute;
+    top: 400px;
+    padding-left: 25px;
+    color:linen;
+}
+
